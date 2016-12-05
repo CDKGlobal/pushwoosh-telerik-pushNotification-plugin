@@ -9,9 +9,9 @@
 		This plugin allows you to send and receive push notifications. Powered by Pushwoosh (www.pushwoosh.com).
 	</description>
 
-	<!-- <engines>
-			<engine name="cordova" version=">=3.1.0" />
-	</engines> -->
+	<engines>
+		<engine name="cordova" version=">=3.1.0" />
+	</engines>
 
 	<license>MIT</license>
 
